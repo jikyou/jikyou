@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[My Blog](https://ziqiang.blog/)
+
+[My Knowledge Base](https://wiki.ziqiang.blog/)
+
+[My Study Japanese Note](https://nihongo.tiddlyhost.com/)
+
 <!--
 **jikyou/jikyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
