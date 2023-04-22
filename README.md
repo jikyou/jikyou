@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[My Blog](https://ziqiang.blog/)
+[My Blog](https://jkyo.org/)
 
 [My Knowledge Base](https://wiki.ziqiang.blog/)
 
