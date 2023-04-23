@@ -2,7 +2,7 @@
 
 [My Blog](https://jkyo.org/)
 
-[My Knowledge Base](https://wiki.ziqiang.blog/)
+[My Knowledge Base](https://wiki.jkyo.org/)
 
 [My Study Japanese Note](https://nihongo.tiddlyhost.com/)
 
