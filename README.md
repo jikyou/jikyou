@@ -4,7 +4,7 @@
 
 [My Knowledge Base](https://wiki.jkyo.org/)
 
-[My Study Japanese Note](https://nihongo.tiddlyhost.com/)
+[My Study Japanese Note](https://ja.jkyo.org/)
 
 <!--
 **jikyou/jikyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
