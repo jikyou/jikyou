@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[My Blog](https://jkyo.org/)
+My Blog [jkyo.org](https://jkyo.org/)
 
-[My Knowledge Base](https://wiki.jkyo.org/)
+My Knowledge Base [wiki.jkyo.org](https://wiki.jkyo.org/)
 
-[My Study Japanese Note](https://ja.jkyo.org/)
+My Study Japanese Note [ja.jkyo.org](https://ja.jkyo.org/)
 
 <!--
 **jikyou/jikyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
